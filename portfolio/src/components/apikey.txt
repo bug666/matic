@@ -1,0 +1,8 @@
+ethscan - can genarate a new one if you need to ragtag on brave
+NR12MJIAB81EDU684N9DXIYNR2ETGPHC53
+
+balance:
+https://api.etherscan.io/api?module=account&action=balance&address=0x89FE47Ae58eC0aC658C1Ee5D50d3B5e8581F9C62&tag=latest&apikey=NR12MJIAB81EDU684N9DXIYNR2ETGPHC53
+
+my gorali network transactions
+http://api.etherscan.io/api?module=account&action=txlist&address=0x89FE47Ae58eC0aC658C1Ee5D50d3B5e8581F9C62&startblock=0&endblock=99999999&sort=asc&apikey=NR12MJIAB81EDU684N9DXIYNR2ETGPHC53
